@@ -3,8 +3,8 @@
     "name": "BotSauce",
     "url": "$SECRET_SITE",
     "slug": "bot-sauce",
-    "status": "down",
-    "uptime": "0.13",
-    "time": 299
+    "status": "up",
+    "uptime": "100.00",
+    "time": 350
   }
 ]
