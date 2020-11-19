@@ -14,7 +14,7 @@ status-website:
   introMessage: "Here you can check the status of **BotSauce**, the bot for the official Vsauce3 Discord server"
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Commands
       href: https://botsauce.github.io
     - title: GitHub
