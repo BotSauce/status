@@ -10,7 +10,7 @@ status-website:
   baseUrl: /status # where "repo" is your repository name
   name: BotSauce Status
   # logoUrl: https://example.com/image.jpg
-  introMessage: "BotSauce"
+  introTitle: "BotSauce"
   introMessage: "Here you can check the status of **BotSauce**, the bot for the official Vsauce3 Discord server"
   navbar:
     - title: Status
