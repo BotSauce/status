@@ -1,0 +1,7 @@
+- url: $SECRET_SITE
+- status: down
+- code: 404
+- responseTime: 277
+- lastUpdated: 2020-11-19T10:56:12.861Z
+- startTime: 2020-11-19T10:56:12.415Z
+- generator: Upptime <https://github.com/upptime/upptime>
