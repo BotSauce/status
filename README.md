@@ -16,7 +16,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL      | Status | History                                                                                  | Response Time                                                                  | Uptime                                                                                                                                                                                                             |
 | -------- | ------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| BotSauce | 🟩 Up  | [bot-sauce.yml](https://github.com/BotSauce/status/commits/master/history/bot-sauce.yml) | <img alt="Response time graph" src="./graphs/bot-sauce.png" height="20"> 314ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBotSauce%2Fstatus%2Fmaster%2Fapi%2Fbot-sauce%2Fuptime.json)](https://BotSauce.github.io/status/history/bot-sauce) |
+| BotSauce | 🟩 Up  | [bot-sauce.yml](https://github.com/BotSauce/status/commits/master/history/bot-sauce.yml) | <img alt="Response time graph" src="./graphs/bot-sauce.png" height="20"> 313ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBotSauce%2Fstatus%2Fmaster%2Fapi%2Fbot-sauce%2Fuptime.json)](https://BotSauce.github.io/status/history/bot-sauce) |
 
 <!--end: status pages-->
 
