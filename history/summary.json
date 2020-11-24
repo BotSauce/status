@@ -5,14 +5,14 @@
     "slug": "bot-sauce",
     "status": "up",
     "uptime": "99.66%",
-    "time": 300
+    "time": 318
   },
   {
     "name": "Discord API (Messages endpoint)",
     "url": "https://discord.com/api/channels/563066002724880404",
     "slug": "discord-api-messages-endpoint",
-    "status": "down",
-    "uptime": "4.04%",
-    "time": 162
+    "status": "up",
+    "uptime": "80.92%",
+    "time": 155
   }
 ]
