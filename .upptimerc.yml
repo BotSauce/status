@@ -6,8 +6,8 @@ sites: # List of endpoints to track
     url: $SECRET_SITE
   - name: Discord API (Messages endpoint)
     url: https://discord.com/api/channels/563066002724880404 #Checks if it can access the #general chat in the Vsauce3 server via the API endpoint
-        expectedStatusCodes:
-      - 401
+    expectedStatusCodes:
+  - 401
 assignees: # Users to assign downtime issues (optional)
   - montelion
 status-website:
