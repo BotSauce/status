@@ -1,0 +1,18 @@
+[
+  {
+    "name": "BotSauce",
+    "url": "$SECRET_SITE",
+    "slug": "bot-sauce",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 299
+  },
+  {
+    "name": "Discord API (Messages endpoint)",
+    "url": "https://discord.com/api/channels/563066002724880404",
+    "slug": "discord-api-messages-endpoint",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 97
+  }
+]
