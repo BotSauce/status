@@ -3,9 +3,9 @@
     "name": "BotSauce",
     "url": "$SECRET_SITE",
     "slug": "bot-sauce",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 347
+    "time": 406
   },
   {
     "name": "Discord API (Messages endpoint)",
