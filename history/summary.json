@@ -5,7 +5,15 @@
     "slug": "bot-sauce",
     "status": "up",
     "uptime": "100.00%",
-    "time": 397
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 408,
+    "timeDay": 299,
+    "timeWeek": 597,
+    "timeMonth": 408,
+    "timeYear": 408
   },
   {
     "name": "Discord API (Messages endpoint)",
@@ -13,6 +21,14 @@
     "slug": "discord-api-messages-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "time": 138
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 153,
+    "timeDay": 187,
+    "timeWeek": 171,
+    "timeMonth": 153,
+    "timeYear": 153
   }
 ]
