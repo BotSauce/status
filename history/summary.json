@@ -3,17 +3,17 @@
     "name": "BotSauce",
     "url": "$SECRET_SITE",
     "slug": "bot-sauce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 246,
-    "timeWeek": 509,
-    "timeMonth": 402,
-    "timeYear": 402
+    "time": 397,
+    "timeDay": 241,
+    "timeWeek": 482,
+    "timeMonth": 397,
+    "timeYear": 397
   },
   {
     "name": "Discord API (Messages endpoint)",
