@@ -2,22 +2,25 @@
   {
     "name": "BotSauce",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bot-sauce",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 413,
-    "timeDay": 365,
-    "timeWeek": 495,
-    "timeMonth": 413,
-    "timeYear": 413
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 412,
+    "timeDay": 306,
+    "timeWeek": 497,
+    "timeMonth": 412,
+    "timeYear": 412,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord API (Messages endpoint)",
     "url": "https://discord.com/api/channels/563066002724880404",
+    "icon": "https://favicons.githubusercontent.com/discord.com",
     "slug": "discord-api-messages-endpoint",
     "status": "up",
     "uptime": "100.00%",
@@ -26,9 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 95,
-    "timeWeek": 161,
+    "timeDay": 148,
+    "timeWeek": 164,
     "timeMonth": 147,
-    "timeYear": 147
+    "timeYear": 147,
+    "dailyMinutesDown": {}
   }
 ]
