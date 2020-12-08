@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bot-sauce",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 535,
-    "timeDay": 1313,
-    "timeWeek": 808,
-    "timeMonth": 535,
-    "timeYear": 535,
-    "dailyMinutesDown": {
-      "2020-12-07": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 1989,
+    "timeWeek": 764,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord API (Messages endpoint)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 148,
-    "timeWeek": 164,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 144,
+    "timeDay": 92,
+    "timeWeek": 140,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   }
 ]
