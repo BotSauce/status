@@ -4,18 +4,20 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bot-sauce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 380,
-    "timeWeek": 771,
-    "timeMonth": 514,
-    "timeYear": 514,
-    "dailyMinutesDown": {}
+    "time": 508,
+    "timeDay": 316,
+    "timeWeek": 810,
+    "timeMonth": 508,
+    "timeYear": 508,
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "Discord API (Messages endpoint)",
