@@ -20,7 +20,7 @@ status-website:
   introMessage: "Here you can check the status of **BotSauce**, the bot for the official Vsauce3 Discord server"
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/montylion/css/main/upptime_botsauce.css
+      href: https://montylion.github.io/css/upptime_botsauce.css
   navbar:
     - title: Commands
       href: https://botsauce.github.io
