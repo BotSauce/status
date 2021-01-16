@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/BotSauce/botsauce.github.io/master/assets/images/botsauce_circle.png
   introTitle: "BotSauce"
   introMessage: "Here you can check the status of **BotSauce**, the bot for the official Vsauce3 Discord server"
-    links:
+  links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/montylion/css/main/upptime_botsauce.css
   navbar:
