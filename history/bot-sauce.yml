@@ -1,7 +1,7 @@
-url: $SECRET_SITE
-status: down
-code: 404
-responseTime: 257
-lastUpdated: 2021-02-06T13:02:03.770Z
+url: https://botsauce.cf
+status: up
+code: 200
+responseTime: 572
+lastUpdated: 2021-02-06T13:23:52.169Z
 startTime: Tue Nov 24 2020 10:48:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
